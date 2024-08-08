@@ -1,4 +1,4 @@
-his library provides a pure Python, asynchronous interface for the Telegram Bot API. It's compatible with Python versions 3.8+.
+This library provides a pure Python, asynchronous interface for the Telegram Bot API. It's compatible with Python versions 3.8+.
 
 In addition to the pure API implementation, this library features several convenience methods and shortcuts as well as a number of high-level classes to make the development of bots easy and straightforward. These classes are contained in the telegram.ext submodule.
 
